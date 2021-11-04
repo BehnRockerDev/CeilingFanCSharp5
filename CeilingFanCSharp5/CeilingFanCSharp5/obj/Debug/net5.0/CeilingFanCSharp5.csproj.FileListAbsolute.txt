@@ -1,0 +1,16 @@
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\bin\Debug\net5.0\CeilingFanCSharp5.exe
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\bin\Debug\net5.0\CeilingFanCSharp5.deps.json
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\bin\Debug\net5.0\CeilingFanCSharp5.runtimeconfig.json
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\bin\Debug\net5.0\CeilingFanCSharp5.runtimeconfig.dev.json
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\bin\Debug\net5.0\CeilingFanCSharp5.dll
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\bin\Debug\net5.0\ref\CeilingFanCSharp5.dll
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\bin\Debug\net5.0\CeilingFanCSharp5.pdb
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\obj\Debug\net5.0\CeilingFanCSharp5.csproj.AssemblyReference.cache
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\obj\Debug\net5.0\CeilingFanCSharp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\obj\Debug\net5.0\CeilingFanCSharp5.AssemblyInfoInputs.cache
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\obj\Debug\net5.0\CeilingFanCSharp5.AssemblyInfo.cs
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\obj\Debug\net5.0\CeilingFanCSharp5.csproj.CoreCompileInputs.cache
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\obj\Debug\net5.0\CeilingFanCSharp5.dll
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\obj\Debug\net5.0\ref\CeilingFanCSharp5.dll
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\obj\Debug\net5.0\CeilingFanCSharp5.pdb
+C:\Users\Behn\Developer\Git\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\CeilingFanCSharp5\obj\Debug\net5.0\CeilingFanCSharp5.genruntimeconfig.cache
